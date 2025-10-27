@@ -4,7 +4,7 @@ $ pkg install qrencode
 
 $ pip install qrcode
 
-$ https://github.com/Boiescylosh/Barcode.git
+$ git clone https://github.com/Boiescylosh/Barcode.git
 
 $ ls
 
